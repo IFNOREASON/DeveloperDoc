@@ -1,7 +1,7 @@
 module.exports = {
     title: 'JouavDeveloper',
     description: '',
-    base: '/JoDevelopDoc/',
+    base: '/DeveloperDoc/',
     themeConfig: {
         nav: [
             { text: 'Home', link: '/' },                      // 根路径
