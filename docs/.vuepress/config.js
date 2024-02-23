@@ -4,16 +4,16 @@ module.exports = {
     base: '/DeveloperDoc/',
     themeConfig: {
         nav: [
-            { text: 'Home', link: '/' },                      // 根路径
-            { text: 'Guide', link: '/guide/' },
-            { text: 'Api', link: '/api/' },
+            { text: 'Home', link: '/docs/' },                      // 根路径
+            { text: 'Guide', link: '/docs/guide/' },
+            { text: 'Api', link: '/docs/test/' },
             { text: 'External', link: 'https://google.com' }, // 外部链接
             // 显示下拉列表
             {
                 text: 'Languages',
                 items: [
-                    { text: 'Chinese', link: '/zh/' },
-                    { text: 'English', link: '/' }
+                    { text: 'Chinese', link: '/docs/zh/' },
+                    { text: 'English', link: '/docs/' }
                 ]
             }
             // 下拉列表显示分组
