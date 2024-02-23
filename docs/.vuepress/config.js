@@ -4,7 +4,7 @@ module.exports = {
     base: '/DeveloperDoc/',
     themeConfig: {
         nav: [
-            { text: 'Home', link: '/docs/' },                      // 根路径
+            { text: 'Home', link: '/docs/guide' },                      // 根路径
             { text: 'Guide', link: '/docs/guide/' },
             { text: 'Api', link: '/docs/test/' },
             { text: 'External', link: 'https://google.com' }, // 外部链接
